@@ -5,3 +5,33 @@ body {
 a {
   color: #00B7FF;
 }
+
+.exec-card {
+  width: 300px;
+}
+
+/* PADDING */
+
+.padding-top-large {
+  padding-top: 120px;
+}
+
+.padding-top-medium {
+  padding-top: 80px;
+}
+
+.padding-top-small {
+  padding-top: 25px;
+}
+
+.padding-bottom-large {
+  padding-bottom: 120px;
+}
+
+.padding-bottom-medium {
+  padding-bottom: 80px;
+}
+
+.padding-bottom-small {
+  padding-bottom: 40px;
+}

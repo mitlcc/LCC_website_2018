@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 /* GET exec page. */
-router.get('/execboard', function(req, res, next){
+router.get('/exec', function(req, res, next){
   res.render('exec', {title: 'Exec'})
 });
 
