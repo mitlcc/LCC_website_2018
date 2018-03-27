@@ -7,7 +7,11 @@ a {
 }
 
 .exec-card {
-  width: 300px;
+  width: 280px;
+}
+
+.organization-card {
+  width: 310px;
 }
 
 /* PADDING */
@@ -34,4 +38,12 @@ a {
 
 .padding-bottom-small {
   padding-bottom: 40px;
+}
+
+.padding-bottom-tiny {
+  padding-bottom: 10px;
+}
+
+.margin-bottom-medium {
+  margin-bottom: 40px;
 }
